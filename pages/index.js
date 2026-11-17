@@ -8,6 +8,10 @@ export default function Home() {
       <Head>
         <title>Punto Norte | Crónicas, Ciencia y Curiosidades</title>
         <meta
+          name="google-site-verification"
+          content="FWESvqufbuh_z2n0BOr_AzUKHsZSw5xiRrsl6BUnWLo"
+        />
+        <meta
           name="description"
           content="Artículos, reportajes y notas curiosas sobre ciencia, naturaleza, tecnología y el mundo cotidiano."
         />
